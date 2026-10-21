@@ -1,14 +1,20 @@
 # NeetCode Solutions — @jili-w
 
-## Purpose
 
-Attempt to complete atleast one Leetcode question each day starting from 10/21/2026
+## Complete atleast one Leetcode question each day starting from 10/21/2026
 
-Current Objective: Finish Leetcode 150
+ _Brush up on Python and DSA in the meantime as well_
 
-Progress: Array & Hashing - Done
+> Current Objective: 
+- [ ] Finish Leetcode 150
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
+> Progress: 
+- [x] ~~Array & Hashing~~
+- [ ] Two Pointers
+- [ ] Stack
+ 
+
+
 
 ---
 
