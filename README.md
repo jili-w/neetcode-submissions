@@ -1,9 +1,11 @@
 # NeetCode Solutions — @jili-w
 
-## Practice
+## Purpose
 
 Attempt to complete atleast one Leetcode question each day starting from 10/21/2026
+
 Current Objective: Finish Leetcode 150
+
 Progress: Array & Hashing - Done
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
